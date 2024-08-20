@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @yasnaya-polyana
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🚀 CS Student @ UWE | React Developer | Cybersecurity Enthusiast
 
-<!---
-yasnaya-polyana/yasnaya-polyana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a final-year CS student with expertise in React and Python, I build dynamic, responsive applications while integrating robust cybersecurity practices. Always eager to learn, adapt, and innovate.
+
+💻 React & Python Pro
+🔐 Security-First Mindset
+
+Let’s collaborate and make the digital world safer and more efficient, one line of code at a time.
+
+LinkedIn Profile: https://www.linkedin.com/in/oscar-linehan-b30b05238/
+
+This bio captures your key skills and interests while being succinct enough for a GitHub profile. Feel free to adjust the LinkedIn URL to your actual profile link.
